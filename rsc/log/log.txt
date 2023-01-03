@@ -1,0 +1,17 @@
+2023-01-02 13:22:22,362 - logger - DEBUG - This >> file::<stdin> - line::1
+2023-01-02 13:56:04,181 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 1086984461 >> file::crawler.py - line::114
+2023-01-02 14:39:08,733 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 1086984461 >> file::crawler.py - line::114
+2023-01-02 15:24:32,606 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 2102506908 >> file::crawler.py - line::114
+2023-01-02 15:45:51,796 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 430823132 >> file::crawler.py - line::114
+2023-01-02 15:51:26,265 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 1102622902 >> file::crawler.py - line::114
+2023-01-02 16:09:31,633 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 1431781391 >> file::crawler.py - line::114
+2023-01-02 16:19:15,692 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 2309420715 >> file::crawler.py - line::114
+2023-01-02 16:35:02,519 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 1395505970 >> file::crawler.py - line::114
+2023-01-02 16:54:11,632 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 2590142475 >> file::crawler.py - line::114
+2023-01-02 17:13:07,842 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 2227543500 >> file::crawler.py - line::114
+2023-01-02 17:16:48,743 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 3863831331 >> file::crawler.py - line::114
+2023-01-02 17:36:10,917 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 6190004521 >> file::crawler.py - line::114
+2023-01-02 17:40:35,159 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 6216705059 >> file::crawler.py - line::114
+2023-01-02 18:08:20,282 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 6692979192 >> file::crawler.py - line::114
+2023-01-02 18:36:09,336 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 5335583958 >> file::crawler.py - line::114
+2023-01-02 18:40:27,645 - logger - INFO - Instagram Crawl Success -  Insta ID : mooonyakkk, Crwal ID : 2124240499 >> file::crawler.py - line::114
